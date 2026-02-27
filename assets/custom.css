@@ -60,3 +60,7 @@
 .learn-more:hover {
   color: #f4c430;
 }
+
+.banner__heading.inline-richtext{
+  font-weight: bold;
+}
