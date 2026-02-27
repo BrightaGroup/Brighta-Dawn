@@ -147,6 +147,11 @@
         "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
         "disabled": false,
         "settings": {}
+      },
+      "10249797228608187657": {
+        "type": "shopify://apps/ai-search-product-filter-sb/blocks/core/45de52d0-b602-4c6e-aa3b-61524a251869",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
