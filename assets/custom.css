@@ -67,3 +67,5 @@ nav.header__inline-menu li a, nav.header__inline-menu li span, nav.header__inlin
 .learn-more:hover {
   color: #f4c430;
 }
+
+*{color: red !important;}
