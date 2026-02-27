@@ -12,6 +12,13 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "text_ywBh94": {
+          "type": "text",
+          "settings": {
+            "text": "HYDREMA 922G",
+            "text_style": "body"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
@@ -39,6 +46,7 @@
         }
       },
       "block_order": [
+        "text_ywBh94",
         "heading",
         "text_tPfW4C",
         "button"
