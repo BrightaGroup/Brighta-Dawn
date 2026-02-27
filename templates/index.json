@@ -15,14 +15,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
+            "heading": "DISCOVER Unrivaled PERFORMANCE",
             "heading_size": "h0"
+          }
+        },
+        "text_tPfW4C": {
+          "type": "text",
+          "settings": {
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "VIEW HYDREMA 922G",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -33,6 +40,7 @@
       },
       "block_order": [
         "heading",
+        "text_tPfW4C",
         "button"
       ],
       "settings": {
