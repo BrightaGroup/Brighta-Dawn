@@ -1,9 +1,25 @@
+/*** header ****/
+.header-wrapper {
+    background: #1C1C1C;
+}
+nav.header__inline-menu li a, nav.header__inline-menu li span, nav.header__inline-menu li {
+    color: #fff;
+}
+header#hello {
+    max-width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.header__icons svg {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(143deg) brightness(106%) contrast(106%);
+}
+/*** footer ***/
 .nzam-footer-contact {
-  
   padding: 60px 40px;
   max-width: 500px;
   color: #ffffff;
   font-family: Arial, sans-serif;
+  text-align: left;
 }
 .newclass {
     background: #1C1C1C;
@@ -45,7 +61,7 @@
 .nzam-about p {
   color: #cccccc;
   line-height: 1.6;
-  font-size: 15px;
+  font-size: 35px;
   margin-bottom: 20px;
 }
 
