@@ -22,14 +22,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "DISCOVER <strong>Unrivaled</strong> PERFORMANCE",
+            "heading": "DISCOVER <strong>Unrivaled</strong> PERFORMANCES",
             "heading_size": "h0"
           }
         },
         "text_tPfW4C": {
           "type": "text",
           "settings": {
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "text_style": "body"
           }
         },
