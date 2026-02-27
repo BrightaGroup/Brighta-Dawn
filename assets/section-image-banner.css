@@ -492,6 +492,7 @@
 }
 
 
-.banner__heading.inline-richtext{
+.banner__heading.inline-richtext strong{
   color: #FFC72C;
+  font-weight: normal;
 }
