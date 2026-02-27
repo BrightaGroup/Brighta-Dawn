@@ -15,11 +15,11 @@ header#hello {
 }
 /*** footer ***/
 .nzam-footer-contact {
-  
   padding: 60px 40px;
   max-width: 500px;
   color: #ffffff;
   font-family: Arial, sans-serif;
+  text-align: left;
 }
 .newclass {
     background: #1C1C1C;
