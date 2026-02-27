@@ -101,6 +101,10 @@
                         {%- endfor -%}
                       </ul>
                     {%- endif -%}
+                      {%- when 'custom_html' -%}
+                    {%- if block.settings.custom_html != blank -%}
+                     {{ block.settings.custom_html }}
+                    {%- endif -%}
                   {%- when 'brand_information' -%}
                     <div class="footer-block__brand-info">
                       {%- if settings.brand_image != blank -%}
