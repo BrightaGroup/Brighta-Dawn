@@ -490,3 +490,8 @@
     color: currentColor;
   }
 }
+
+
+.banner__heading.inline-richtext{
+  color: #FFC72C;
+}
