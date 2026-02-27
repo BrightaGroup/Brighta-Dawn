@@ -5,6 +5,9 @@
   color: #ffffff;
   font-family: Arial, sans-serif;
 }
+.newclass {
+    background: linear-gradient(90deg, #111111 0%, #1a1a1a 100%);
+}
 
 .nzam-footer-contact h3 {
   color: #f4c430; /* Yellow from screenshot */
